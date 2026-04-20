@@ -1,0 +1,1 @@
+import("./dist/wontoso.swa.ang/server/server.mjs");

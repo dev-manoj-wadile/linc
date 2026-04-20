@@ -46,7 +46,7 @@ app.use('/api/{*splat}', createProxyMiddleware({
         console.log("===RAJ=====")
       },
       error: (err, req, res) => { 
-        console.log("===RAM=====", err)
+        console.log("===RAM Error=====", err)
       }
     }
   }));
