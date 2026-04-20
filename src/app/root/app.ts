@@ -9,7 +9,7 @@ import { WeatherForecastService } from '../services/weatherforecast.service';
   styleUrl: './app.scss'
 })
 export class App {
-  protected readonly title = signal('Angular Proxy Pattern v1');
+  protected readonly title = signal('wontoso.swa.ang');
   
   data: any[] = [];
 
